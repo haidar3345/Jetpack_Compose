@@ -1,0 +1,8 @@
+com.example.jetpackcompose.app-pngs-0 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\build\generated\res\pngs\debug
+com.example.jetpackcompose.app-updated_navigation_xml-1 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\build\generated\updated_navigation_xml\debug
+com.example.jetpackcompose.app-packageDebugResources-2 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.jetpackcompose.app-packageDebugResources-3 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.jetpackcompose.app-debug-4 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.jetpackcompose.app-debug-5 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\src\debug\res
+com.example.jetpackcompose.app-main-6 C:\Users\LENOVO\AndroidStudioProjects\jetpackcompose\app\src\main\res
+gradleHome-0 C:\Users\LENOVO\.gradle
